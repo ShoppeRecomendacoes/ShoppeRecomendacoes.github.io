@@ -1,7 +1,7 @@
 body {
 background-color: rgba(236,20,54,255);
 }
-#meio {
+.meio {
   display: flex;
   justify-content: center;
   align-items: center;
