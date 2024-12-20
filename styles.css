@@ -1,7 +1,11 @@
 body {
-background-color: rgb(36, 19, 5);
+background-color: HEX(#ec1436);
 }
 
 .container {
-    top: 85%;
+    width: 150;
+    height: 150px:
+    display: grid;
+    align-items: center;
+    justify-content: top;
 }
