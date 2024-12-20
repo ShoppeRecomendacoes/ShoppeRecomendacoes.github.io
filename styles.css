@@ -26,7 +26,7 @@ font-family: Helvetica;
 .imagem {
     display: flex;
     align-items: top;
-    justify-content: left;
+    justify-content: right;
 }
 .imagem {
     width: 300px;
