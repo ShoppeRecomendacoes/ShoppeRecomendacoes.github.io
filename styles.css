@@ -15,4 +15,5 @@ margin-left: auto;
     }
         .testo {
             text-aling: center;
+            transform: translateX(200)
     }
