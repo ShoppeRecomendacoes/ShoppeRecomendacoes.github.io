@@ -2,7 +2,7 @@ body {
 background-color: HEX(#ec1436);
 }
 
-.container {
+#container {
     width: 150;
     height: 150px:
     display: grid;
