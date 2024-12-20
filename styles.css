@@ -6,6 +6,6 @@ background-color: HEX(#ec1436);
     width: 150;
     height: 150px:
     display: grid;
-    align-items: center;
+    align-items: top;
     justify-content: top;
 }
