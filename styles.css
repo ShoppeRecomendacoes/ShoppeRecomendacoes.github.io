@@ -1,11 +1,16 @@
 body {
 background-color: HEX(#ec1436);
 }
+.container {
+  width: 300px; /* Ajuste o tamanho conforme necessário */
+  height: 300px;
+  margin: 0 auto; /* Centraliza o container horizontalmente na página */
+  display: grid;
+  align-items: center;
+  justify-content: center; /* Centraliza os itens verticalmente e horizontalmente dentro do container */
+}
 
-#container {
-    width: 150;
-    height: 150px:
-    display: grid;
-    align-items: top;
-    justify-content: top;
+.image {
+  width: 100%; /* Faz a imagem ocupar toda a largura do container */
+  height: auto; /* Mantém a proporção da imagem */
 }
