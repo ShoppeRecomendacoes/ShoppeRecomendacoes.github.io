@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    height: 300vh;
+    height: 100vh;
     background-color:rgb(236 20 54);
 
 }
@@ -26,9 +26,9 @@ font-family: Helvetica;
 .imagem {
     display: flex;
     align-items: top;
-    justify-content: right;
+    justify-content: left;
 }
-.imagem {
+#roblox{
     width: 300px;
     height: 300px;
     background-color: black;
@@ -36,4 +36,3 @@ font-family: Helvetica;
     border: 2px solid black;
     border-radius: 4px
 }
-
