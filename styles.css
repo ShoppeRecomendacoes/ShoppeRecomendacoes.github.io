@@ -39,7 +39,7 @@ font-family: Helvetica;
 .imagem2 {
     display: flex;
     align-items: top;
-    justify-content: left;
+    justify-content: right;
 }
 #roblox2{
     width: 300px;
