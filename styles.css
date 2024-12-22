@@ -1,9 +1,3 @@
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
 body {
     height: 100vh;
     background-color:rgb(236 20 54);
@@ -29,19 +23,24 @@ font-family: Helvetica;
     align-items: top;
     justify-content: space-between;
 }
+
 #roblox{
     width: 300px;
     height: 300px;
+    align-items: center;
+    justify-content: left;
     background-color: black;
     padding: 2px;
     border: 2px solid black;
     border-radius: 4px
-            align-items: center;
-    justify-content: left;
+}
 #roblox2{
+    margin: 0;
+    padding: 0;
+    display: flex;
     width: 300px;
     height: 300px;
-        align-items: center;
+    align-items: center;
     justify-content: right;
     background-color: black;
     padding: 2px;
