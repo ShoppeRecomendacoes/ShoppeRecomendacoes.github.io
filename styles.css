@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -26,7 +27,7 @@ font-family: Helvetica;
 .imagem {
     display: flex;
     align-items: top;
-    justify-content: left;
+    justify-content: space-between;
 }
 #roblox{
     width: 300px;
@@ -47,4 +48,3 @@ font-family: Helvetica;
     border: 2px solid black;
     border-radius: 4px
 }
-
